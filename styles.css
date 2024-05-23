@@ -1,0 +1,27 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: rgb(255, 127, 80);
+    color: antiquewhite;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(106, 224, 70);
+}
+
+.ingredients {
+    font-size: 22px;
+}
+
+.steps{
+    font-size: 18px;
+    
+}
+.recipes{
+    font-size: 28px;
+    color: rgb(80, 255, 215);
+}
+
